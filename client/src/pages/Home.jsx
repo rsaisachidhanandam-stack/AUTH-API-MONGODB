@@ -12,7 +12,7 @@ function Home() {
     >
       <section style={{ marginBottom: "32px" }}>
         <h2 style={{ fontSize: "32px", marginBottom: "16px" }}>
-          Share your stories with the world
+          Share your stories with the world on BlogSphere
         </h2>
         <p style={{ fontSize: "16px", marginBottom: "24px" }}>
           BlogSphere is a simple platform for writers and creators to publish
